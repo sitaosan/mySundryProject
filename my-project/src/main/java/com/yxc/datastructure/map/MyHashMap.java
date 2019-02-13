@@ -1,4 +1,4 @@
-package com.yxc.map;
+package com.yxc.datastructure.map;
 
 /**
  * 1、有一个Entry类（内部key,value、Entry）
