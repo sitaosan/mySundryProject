@@ -1,4 +1,4 @@
-package com.yxc.stack;
+package com.yxc.datastructure.stack;
 
 public class MyLinkedStack {
     class Node{

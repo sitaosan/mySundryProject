@@ -1,4 +1,4 @@
-package com.yxc.list;
+package com.yxc.datastructure.list;
 
 import com.yxc.datastructure.linked.LinkedList;
 

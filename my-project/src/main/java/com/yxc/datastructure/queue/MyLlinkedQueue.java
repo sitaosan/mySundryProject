@@ -1,4 +1,4 @@
-package com.yxc.queue;
+package com.yxc.datastructure.queue;
 
 /**
  *队列是先进先出

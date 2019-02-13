@@ -1,4 +1,4 @@
-package com.yxc.list;
+package com.yxc.datastructure.list;
 
 import java.util.ArrayList;
 import java.util.List;
